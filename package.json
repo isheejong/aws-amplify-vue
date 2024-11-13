@@ -13,8 +13,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "@vue/cli-plugin-unit-jest": "^3.2.0",
-    "@vue/cli-service": "^3.2.0",
+    "@vue/cli-plugin-unit-jest": "^4.0.5",
+    "@vue/cli-service": "^5.0.1",
     "@vue/test-utils": "^1.0.0-beta.27",
     "aws-amplify": "^1.1.4",
     "aws-amplify-vue": "^0.1.1",
